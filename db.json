@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "cabo",
+      "email": "cabo@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "2",
+      "name": "verde",
+      "email": "verde@gmail.com",
+      "password": "5678"
+    },
+    {
+      "id": "3",
+      "name": "terra",
+      "email": "terra@gmail.com",
+      "password": "4321"
+    },
+    {
+      "id": "ffd1",
+      "name": "verde",
+      "email": "verd@gmail.com",
+      "senha": "1234"
+    },
+    {
+      "email": "cabo@gmail.com",
+      "password": "1234",
+      "id": "gnedMQZ"
+    },
+    {
+      "email": "cabo@gmail.com",
+      "password": "1234",
+      "id": "CEVKmAE"
+    }
+  ]
+}
